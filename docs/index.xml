@@ -6,7 +6,16 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Scormeet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://scormeet.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://scormeet.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Por que Git y GitHub?</title>
+      <link>https://scormeet.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://scormeet.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Git permite también la gestión distribuida del trabajo. Es decir, trabajar en equipo sin tener que estar físicamente cerca. Cada programador cuenta con su propia copia del repositorio en su equipo. Y cada vez que se realice algún cambio, la modificación se aplica al proyecto en desarrollo.</description>
+    </item>
+    
     <item>
       <title>La Cultura de un Desarrollador de Software</title>
       <link>https://scormeet.github.io/my_launchx_blog/posts/intro/</link>
